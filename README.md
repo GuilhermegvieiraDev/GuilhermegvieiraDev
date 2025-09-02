@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Gomes Vieira  
+# 💻 Guilherme Gomes Vieira  
 
 🎯 Desenvolvedor Front-end e futuro full stack, apaixonado por tecnologia e criação de interfaces modernas.  
 Atualmente focado em projetos práticos para evoluir minhas habilidades em desenvolvimento web.  
